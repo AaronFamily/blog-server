@@ -1,0 +1,14 @@
+# OSX
+#
+.DS_Store
+
+# node
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+# theme
+_config.yml
